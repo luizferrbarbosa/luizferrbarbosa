@@ -1,17 +1,22 @@
 <h1 align='center'>
-  Hi there 👋 I'm Luiz Fernando
+  Welcome!
+  Hi there :raising_hand_man: I'm Luiz Fernando
 </h1>
-
 <p align='center'>
-  I living in Ribeirão Preto, SP, Brazil.
+  :camera_flash: I'm a photographer :computer: and programming :man_technologist: enthusiast.
 </p>
 <p align='center'>
-  I'm a photographer 📸 and programming 👨‍💻 enthusiast.
+  :house_with_garden: I living in Ribeirão Preto, SP, Brazil.
+</p>
+<p align='center'>
+  :books:I’m currently learning everything...
 </p>
 
-
-
 <p align='center'>
+  <a href="https://github.com/luizferrbarbosa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>
+
   <a href="https://instagram.com/luizferrbarbosa">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
